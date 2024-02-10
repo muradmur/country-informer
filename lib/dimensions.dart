@@ -1,0 +1,11 @@
+const double module_0 = 0;
+const double module_05 = 2;
+const double module_1 = 4;
+const double module_2 = 8;
+const double module_3 = 12;
+const double module_4 = 16;
+const double module_5 = 20;
+const double module_6 = 24;
+const double module_7 = 28;
+const double module_31 = 124;
+const double module_32 = 128;
